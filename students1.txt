@@ -1,0 +1,22 @@
+Zirwa Omar
+Semester: 2
+Department: scit
+Email: zirwaomar@example.com
+Expertise: Machine Learning, Data Science
+Availability: positive
+---------------------------
+Mariam Saghir
+Semester: 3
+Department: scit
+Email: mariamsaghir@example.com
+Expertise: Statistics, Algebra
+Availability: positive
+---------------------------
+
+Waniaa Masood
+Semester: 3
+Department: scit
+Email: waniaamasood@example.com
+Expertise: Statistics, English
+Availability: positive
+--------------------------

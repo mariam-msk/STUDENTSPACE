@@ -1,0 +1,48 @@
+Name:mariam
+Registration ID;f2023-000
+Age:18
+Semester:2
+Department:scit
+Phone no:03224009242
+Email Address:mariamsaghir666
+Expertise:gaming
+Name:mariam
+Registration ID;f2023-555
+Age:19
+Semester:3
+Department:svad
+Phone no:03224009424
+Email Address:mariamsaghir666
+Expertise:gaming
+Name:summayya
+Registration ID;f2023-999
+Age:18
+Semester:2
+Department:scit
+Phone no:03224009424
+Email Address:email@gmail.com
+Expertise:gaming
+Name:waniaa
+Registration ID;f2023-533
+Age:20
+Semester:2
+Department:scit
+Phone no:00000000000
+Email Address:email@gmail.com
+Expertise:english
+Name:summayya
+Registration ID;f2023-779
+Age:17
+Semester:3
+Department:scit
+Phone no:03224009424
+Email Address:mariamsaghir666
+Expertise:cooking
+Name:mariam
+Registration ID;f2023-550
+Age:18
+Semester:3
+Department:scit
+Phone no:03224009424
+Email Address:mariamsaghir666@gmail.com
+Expertise:gaming

@@ -1,0 +1,36 @@
+Discussion Room 1:
+9 - 10 Occupied
+10 - 11 Available
+11 - 12 Available
+1 - 2 Occupied
+2 - 3 Occupied
+3 - 4 Available
+4 - 5 Occupied
+5 - 6 Available
+Discussion Room 2:
+9 - 10 Available
+10 - 11 Available
+11 - 12 Occupied
+1 - 2 Occupied
+2 - 3 Occupied
+3 - 4 Available
+4 - 5 Available
+5 - 6 Available
+Discussion Room 3:
+9 - 10 Available
+10 - 11 Available
+11 - 12 Available
+1 - 2 Occupied
+2 - 3 Occupied
+3 - 4 Available
+4 - 5 Occupied
+5 - 6 Available
+Discussion Room 4:
+9 - 10 Available
+10 - 11 Available
+11 - 12 Occupied
+1 - 2 Available
+2 - 3 Available
+3 - 4 Available
+4 - 5 Occupied
+5 - 6 Occupied
